@@ -1,2 +1,2 @@
 # FarmerProtestTweetAnalysis
-An analysis on the Tweets around the Farmer protests in India *On Going*
+An analysis on the Tweets around the Farmer protests in India *OnGoing*
